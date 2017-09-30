@@ -1,0 +1,6 @@
+name: Salout
+description: Salout module for training
+package: Training
+
+core: 8.x
+type: module

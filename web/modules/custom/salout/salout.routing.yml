@@ -1,0 +1,7 @@
+salout.content:
+  path: '/saloot'
+  defaults:
+    _controller: '\Drupal\salout\Controller\SaloutController::content'
+    _title: 'Z saloot verse'
+  requirements:
+    _permission: 'access content'
