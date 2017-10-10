@@ -1,0 +1,6 @@
+salout.wayto:
+  title: 'menu title'
+  description: 'lengthy description'
+  parent: system.admin_config_development
+  route_name: salout.content
+  weight: 100
